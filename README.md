@@ -15,8 +15,8 @@ use have been added below. <br>
 The client text-editor was Neovim in <br>
 these examples. 
 
-References used to create boiler-plate <br>
-for get the server up and running are <br> 
+References used to create a boiler-plate, <br>
+and to get the server up and running are <br> 
 mentioned below: <br>
 https://github.com/tjdevries/educationalsp <br>
 https://github.com/semanticart/lsp-from-scratch
